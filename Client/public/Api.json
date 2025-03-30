@@ -1,0 +1,72 @@
+{
+  "hackathons": [
+    {
+      "name": "Tech Innovators Hackathon",
+      "date": "2025-06-15",
+      "location": "Online",
+      "description": "A global hackathon focusing on AI, blockchain, and IoT innovations.",
+      "prizes": ["1st Place: ₹5000", "2nd Place: ₹3000", "3rd Place: ₹1000"],
+      "registration_link": "https://techinnovatorshack.com/register"
+    },
+    {
+      "name": "CodeFest 2025",
+      "date": "2025-07-10",
+      "location": "New York, USA",
+      "description": "A competitive coding event for developers and programmers.",
+      "prizes": [
+        "Winner: MacBook Pro",
+        "Runner-up: iPad Pro",
+        "Best UI/UX Design: ₹500"
+      ],
+      "registration_link": "https://codefest2025.com/signup"
+    },
+    {
+      "name": "GreenTech Hackathon",
+      "date": "2025-08-05",
+      "location": "Berlin, Germany",
+      "description": "An eco-friendly hackathon to develop sustainable technology solutions.",
+      "prizes": [
+        "Top Project: ₹7000",
+        "Best Student Team: ₹2000",
+        "Audience Choice Award: ₹1500"
+      ],
+      "registration_link": "https://greentechhack.com/join"
+    },
+    {
+      "name": "CyberSec Challenge 2025",
+      "date": "2025-09-12",
+      "location": "London, UK",
+      "description": "A cybersecurity-focused hackathon to test and improve security skills.",
+      "prizes": [
+        "1st Place: ₹6000",
+        "Best Ethical Hacker: ₹3000",
+        "Best Team Performance: ₹2000"
+      ],
+      "registration_link": "https://cybersecchallenge.com/apply"
+    },
+    {
+      "name": "AI for Good Hackathon",
+      "date": "2025-10-20",
+      "location": "San Francisco, USA",
+      "description": "Using AI to solve real-world social and humanitarian challenges.",
+      "prizes": [
+        "Grand Prize: ₹8000",
+        "Best AI Innovation: ₹4000",
+        "Most Impactful Project: ₹2500"
+      ],
+      "registration_link": "https://aiforgoodhack.com/register"
+    },
+    {
+      "name": "GameDev Jam 2025",
+      "date": "2025-11-15",
+      "location": "Tokyo, Japan",
+      "description": "A game development hackathon for indie developers and enthusiasts.",
+      "prizes": [
+        "Best Game: ₹5000",
+        "Most Creative Concept: ₹3000",
+        "Best Multiplayer Experience: ₹2000"
+      ],
+      "registration_link": "https://gamedevjam.com/participate"
+    }
+  ]
+}
